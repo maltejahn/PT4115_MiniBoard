@@ -5,6 +5,8 @@ Aim:
 - connected using pin header (0.1") of soldered directly
 - shouldnt smoke immediately
 
+![What a great PCB ;-)](https://github.com/maltejahn/PT4115_MiniBoard/blob/main/PT4115-Miniboard.png)
+
 ToDo:
 - some measurements...
 
