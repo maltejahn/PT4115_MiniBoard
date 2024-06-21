@@ -9,7 +9,7 @@ ToDo:
 - some measurements...
 
 
-- Tasks:
+Tasks:
 - finalize schematic  - done
 - finalize pcb - done
 - Gerbers, order pcb - tbd
