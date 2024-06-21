@@ -9,12 +9,12 @@ ToDo:
 - some measurements...
 
 
-Tasks:
-finalize schematic  - done
-finalize pcb - done
-Gerbers, order pcb - tbd
-BOM, assemble instructions - tbd
-assemble - tbd
-test - tbd
-report - tbd
+- Tasks:
+- finalize schematic  - done
+- finalize pcb - done
+- Gerbers, order pcb - tbd
+- BOM, assemble instructions - tbd
+- assemble - tbd
+- test - tbd
+- report - tbd
 
